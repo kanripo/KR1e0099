@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋平義
-#+DATE: 2015-09-23 09:40:32
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:16:53.235562
+#+PROPERTY: ID KR1e0099
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0099_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋平義卷十二　　　　　秀水俞汝言撰¶
@@ -398,4 +400,3 @@
 　¶
 　¶
 　春秋平義卷十二¶
-
